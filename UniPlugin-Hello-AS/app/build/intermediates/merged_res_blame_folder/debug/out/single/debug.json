@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/echo/项目/源码分析/myTestApp/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_splash.png.flat",
+        "source": "/Users/echo/项目/源码分析/myTestApp/UniPlugin-Hello-AS/app/src/main/res/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/echo/项目/源码分析/myTestApp/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_push.png.flat",
+        "source": "/Users/echo/项目/源码分析/myTestApp/UniPlugin-Hello-AS/app/src/main/res/drawable-xxhdpi/push.png"
+    },
+    {
+        "merged": "/Users/echo/项目/源码分析/myTestApp/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon.png.flat",
+        "source": "/Users/echo/项目/源码分析/myTestApp/UniPlugin-Hello-AS/app/src/main/res/drawable-xxhdpi/icon.png"
+    }
+]

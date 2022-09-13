@@ -1,0 +1,2 @@
+com/wql/testjks/BuildConfig.java
+ com.wql.testjks.BuildConfig
